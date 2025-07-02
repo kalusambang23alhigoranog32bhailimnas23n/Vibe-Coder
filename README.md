@@ -76,7 +76,7 @@ NODE_ENV=development
 **Terminal 1 - Start Backend Server:**
 ```bash
 cd server
-npm run dev
+npm start
 ```
 
 **Terminal 2 - Start Frontend:**
